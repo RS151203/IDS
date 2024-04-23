@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>power_button.png</file>
+    <file>aegis_logo.png</file>
+    <file>aegis_logo_menu.png</file>
+    <file>cancel.png</file>
+    <file>login_background.jpg</file>
+    <file>user_info.png</file>
+    <file>password.png</file>
+    <file>username.png</file>
+  </qresource>
+</RCC>
